@@ -1,0 +1,15 @@
+.button{
+-fx-focus-color: none;
+}
+.button:hover{
+-fx-background-color: grey;
+}
+.toggle-button:hover{
+-fx-background-color: red;
+}
+.spell-error {-fx-fill: #8346F2;-fx-font-weight: bold;}
+.spell-found {-fx-fill: #000000;}
+
+.debug {-fx-fill: #8346F2;-fx-font-weight: bold;}
+
+}
