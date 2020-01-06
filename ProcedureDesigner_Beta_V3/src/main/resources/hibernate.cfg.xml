@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd"><hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+    <!--Database name -->
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/proceduredb</property>
+    <property name="hibernate.connection.username">root</property>
+    <!-- Database password -->
+    <property name="hibernate.connection.password">root</property>
+    <property name="hibernate.current_session_context_class">thread</property>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+    <!-- Change update to [create-drop] to create tables -->
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    <!-- add classes here -->
+    <mapping class="Entities.Activity"/>
+    <mapping class="Entities.Employee"/>
+    <mapping class="Entities.Process"/>
+    <mapping class="Entities.Task"/>
+    <mapping class="Entities.SubProcess"/>
+    <mapping class="Entities.JobDescriptionFile"/>
+    <mapping class="Entities.ProcedureFile"/>
+    <mapping class="Entities.Duration"/>
+    <mapping class="Entities.Risk"/>
+
+
+  </session-factory>
+</hibernate-configuration>

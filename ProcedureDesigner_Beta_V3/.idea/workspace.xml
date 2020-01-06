@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProcedureDesigner_Test2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26629bd5-ad80-492b-9418-52cb708de1fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SEgklLxsSMvpUPgmBC5aw7yVwl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31609195" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wolvdante\IdeaProjects\2019-12-5 V2\2019-12-5\ProcedureDesigner_Beta_V3" />
+      <recent name="C:\Users\Wolvdante\IdeaProjects\ProcedureDesigner_Test2\src\main\java\sample" />
+      <recent name="C:\Users\Wolvdante\IdeaProjects\ProcedureDesigner_Test2\src\main\java" />
+      <recent name="C:\Users\Wolvdante\IdeaProjects\ProcedureDesigner_Test2\src\main\resources" />
+      <recent name="C:\Users\heave\IdeaProjects\ProcedureDesigner_Test\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="ProcedureDesigner_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProcedureDesigner_Test2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ProcedureDesigner_Test2_jar/ProcedureDesigner_Test2.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProcedureDesigner_Test.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ProcedureDesigner_Test_jar/ProcedureDesigner_Test.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.ProcedureDesigner_Test.jar" />
+      <item itemvalue="JAR Application.ProcedureDesigner_Test2.jar" />
+      <item itemvalue="JAR Application.ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <item itemvalue="JAR Application.ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.ProcedureDesigner_Test-1.0-SNAPSHOT-jar-with-dependencies.jar (1)" />
+        <item itemvalue="JAR Application.ProcedureDesigner_Test2.jar" />
+        <item itemvalue="JAR Application.ProcedureDesigner_Test.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26629bd5-ad80-492b-9418-52cb708de1fb" name="Default Changelist" comment="" />
+      <created>1571134313324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571134313324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="74" y="0" width="1089" height="615" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577549088351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="74" y="0" width="1089" height="615" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577549088351" />
+    <state x="337" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575727425123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1575727425123" />
+    <state x="446" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1577797900669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1577797900669" />
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1572298664942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1572298664942" />
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1572939705753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1572939705753" />
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1572295456488">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1572295456488" />
+    <state x="530" y="49" key="#xdebugger.evaluate" timestamp="1574590914666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="530" y="49" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1574590914666" />
+    <state x="421" y="85" key="FileChooserDialogImpl" timestamp="1576022065168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576022065168" />
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom" timestamp="1577985403141">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577985403141" />
+    <state width="1237" height="194" key="GridCell.Tab.0.center" timestamp="1577985403140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577985403140" />
+    <state width="1237" height="194" key="GridCell.Tab.0.left" timestamp="1577985403140">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577985403140" />
+    <state width="1237" height="194" key="GridCell.Tab.0.right" timestamp="1577985403141">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577985403141" />
+    <state width="1237" height="188" key="GridCell.Tab.1.bottom" timestamp="1577620663312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="188" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577620663312" />
+    <state width="1237" height="188" key="GridCell.Tab.1.center" timestamp="1577620663312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="188" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577620663312" />
+    <state width="1237" height="188" key="GridCell.Tab.1.left" timestamp="1577620663312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="188" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577620663312" />
+    <state width="1237" height="188" key="GridCell.Tab.1.right" timestamp="1577620663312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="188" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577620663312" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1574932899566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1574932899566" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1577279705160">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577279705160" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575814611051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1575814611051" />
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1578225755289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578225755289" />
+    <state x="91" y="0" key="new project wizard" timestamp="1577881589550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1577881589550" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1574784353875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1574784353875" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576423106940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576423106940" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/Image_Setter.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+-Employee cannot connect to activity in DB
+-any connection doesnot has a reflection on DB except for employee to tasks mainprocess to subprocess
+-after generating there is a freaze (solution : call reconnect function at the end of the function)
+-after opening the children are deleted
